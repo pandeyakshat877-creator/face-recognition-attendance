@@ -31,3 +31,11 @@ I built this project as part of my B.Tech CSE coursework at SKIT Jaipur. It is a
 ## Setup Instructions
 1. Install Python 3.10 from python.org
 2. Install dependencies:
+3. Add student photos to the Images folder named as StudentID.jpeg
+4. Run in this order:
+py -3.10 Encoding.py
+py -3.10 connectDatabase.py
+py -3.10 main.py
+## Project By
+Akshat Pandey
+B.Tech CSE, SKIT Jaipur
